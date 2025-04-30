@@ -1,0 +1,14 @@
+{
+  "name": "solar-azimuth-tracker",
+  "version": "1.0.0",
+  "description": "A simple app to fetch solar azimuth data",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
